@@ -7,7 +7,8 @@ body{
 }
 
 :root {
-    --primary-color:#7c3aed;
+    --primary-color: #059669
+    ;
     --dark-gray: #78716c;
     --off-white:  #f4f4f5 ;
 }
@@ -133,5 +134,4 @@ list-style: none;
 
 .padding-pd{
     padding: 2rem;
-    padding-left: rem;
 }
