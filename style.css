@@ -135,3 +135,18 @@ list-style: none;
 .padding-pd{
     padding: 2rem;
 }
+
+.font-size{
+    font-size: 3rem;
+}
+
+.img-width{
+    max-width: 37rem;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+.blog-link{
+    text-decoration: none;
+    color: black;
+}
