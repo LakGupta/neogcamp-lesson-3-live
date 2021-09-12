@@ -157,3 +157,8 @@ hr {
 .text-center {
     text-align: center;
 }
+
+.blog-link:hover
+{
+    color:var(--primary-color);
+}
