@@ -2,19 +2,43 @@
 
 body{
     font-family: 'Montserrat', sans-serif;
+    
+
+}
+
+.old-green{
+    background-color:#059669 ;
+}
+
+.old-gray{
+    color: #78716c;
 
 }
 .ow{
-    background-color: #E5E7EB;
+    background-color: #f4f4f5;
 
-    ;
+    
 }
-
+.old-white{
+    color: white;
+}
 .active{
     font-weight: bold;
 }
 
 .custom-size{
-    width: 350px;
+    width: 25rem;
+}
+
+.custom-size-blog{
+    width: 25rem;
+}
+
+.nav-link:hover{
+    color:#059669 ;
+}
+
+.img-resize{
+    width: 50rem;
 }
 
