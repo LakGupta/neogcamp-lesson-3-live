@@ -34,10 +34,13 @@ body{
     width: 25rem;
 }
 
-.nav-link:hover{
+.nav-hov-green:hover{
     color:#059669 ;
 }
-
+.nav-hov-random:hover{
+    color: #E5E7EB;
+    font-weight: bolder;
+}
 .img-resize{
     width: 50rem;
 }
